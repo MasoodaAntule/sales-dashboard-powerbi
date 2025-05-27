@@ -1,0 +1,102 @@
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate,Country,SalesPerson,Status
+ORD1000,,Tablet,Accessories,8,1120.17,2024-02-10,Australia,Tonya Hill,
+ORD1001,Randy Shaffer,,Camera,5,885.06,2023-07-25,India,Amber Cherry,Completed
+ORD1002,Johnathan Hartman,Laptop,Electronics,4,1066.44,2024-07-24,USA,Austin Mcgrath,Completed
+ORD1003,Michelle Wilkerson, laptop ,Mobiles,4,1208.22,2024-03-18,UK,Edward Patterson,Cancelled
+ORD1004,Deanna Cooke,Tablet,Electronics,10,429.57,2024-04-11,USA,Robert Snyder,Completed
+ORD1005,Katherine Williams,Headphones,Electronics,6,406.31,2023-11-20,USA,Olivia Garcia,Pending
+ORD1006,Keith Barnes,Smartphone,Accessories,7,1358.91,2024-08-10,UK,Shelly Goodman,Cancelled
+ORD1007,Emily Dickerson,Tablet,ELECTRONICS,2,1492.44,2023-08-05,Germany,Thomas Daniels,
+ORD1008,Charles Strong,Tablet,Electronics,5,447.77,2024-01-20,India,Steve White,Completed
+ORD1009,Michael Simon,Headphones,Mobiles,2,241.05,2023-09-03,Germany,Mr. Kyle Thompson,
+ORD1010,,,Camera,10,1064.76,2025-01-07,USA,Kyle Larsen,complete
+ORD1011,Spencer Jones,Smartphone,Mobiles,6,725.16,2025-02-02,Canada,William Williams DVM,Pending
+ORD1012,Ellen Jenkins,Camera,Mobiles,5,697.05,2024-09-30,Canada,Sonya Wilson,Completed
+ORD1013,Stacy Jacobson,,Camera,9,1175.91,2023-07-01,USA,Erik Miller,
+ORD1014,Vanessa Patel,Camera,Electronics,9,603.97,2024-03-02,France,Elizabeth Watson,Completed
+ORD1015,Aimee Orr,Smartphone,Electronics,2,991.66,2024-11-07,UK,Tara Ray,Pending
+ORD1016,Christopher Potter,Headphones,Electronics,9,1464.52,2024-01-08,Germany,Jose Harrison,Completed
+ORD1017,Daniel Wilson,,Electronics,6,72.15,2024-03-03,UK,Keith Cabrera,Completed
+ORD1018,John Brady,Camera,Accessories,1,1423.33,2023-11-21,Canada,Dalton Evans,Pending
+ORD1019,Michael Torres,Headphones,Accessories,3,1256.22,2025-04-05,Australia,Sherry Lopez,Completed
+ORD1020,,Headphones,Camera,6,1254.68,2023-09-11,India,Heather Leon,Pending
+ORD1021,Taylor Mcbride,Tablet,Camera,10,769.9,2024-05-25,Canada,Bryan Carr,Completed
+ORD1022,James White,Camera,Electronics,2,273.75,2025-01-24,UK,John Romero,Completed
+ORD1023,Michelle Norris,Laptop,Mobiles,8,618.41,2024-07-26,India,Mark Taylor,Completed
+ORD1024,Michael Holland,Tablet,Electronics,6,566.0,2024-05-08,India,Loretta Morton,Cancelled
+ORD1025,Dana Johnston,,Electronics,7,391.14,2024-11-27,Australia,Lauren Lyons,Completed
+ORD1026,Ronnie Olson,Tablet,Electronics,7,503.92,2023-12-27,France,Stacey Marquez,
+ORD1027,Jasmine Boyd,Smartphone,Camera,5,1319.67,2024-12-10,France,Latasha Hurst,
+ORD1028,Henry Potter,,Accessories,3,1228.94,2024-04-16,Germany,Julia Yates,Pending
+ORD1029,Christina Wright,Camera,Electronics,1,1455.57,2025-05-08,Canada,John Gilbert,Cancelled
+ORD1030,,Tablet,Camera,1,149.23,2024-02-12,USA,Stuart Little,Cancelled
+ORD1031,Dr. Eric Williams,,Electronics,7,219.1,2023-08-29,USA,Austin Pace,Cancelled
+ORD1032,Ariel Stafford,Tablet,Accessories,5,405.39,2024-07-06,India,Austin Brown,Completed
+ORD1033,Brittany Hernandez,Smartphone,Electronics,8,371.83,2024-03-01,Australia,Heather Yang,Completed
+ORD1034,Mariah Dominguez,Camera,Electronics,4,646.71,2023-06-06,India,Jerry Leonard,Completed
+ORD1035,Amanda Pham,Laptop,Electronics,9,222.87,2025-03-07,Canada,Linda Clark,
+ORD1036,Maria Wood,Camera,Camera,5,1006.43,2025-03-13,Australia,Kenneth Patrick,Completed
+ORD1037,Bruce Adams,Laptop,Mobiles,9,913.24,2024-09-09,Germany,John Randall,Cancelled
+ORD1038,Mrs. Donna Tran,,Mobiles,6,969.26,2024-03-10,Canada,Leslie Sanders,Completed
+ORD1039,Joseph Norris,Laptop,Electronics,7,1078.62,2023-12-28,Australia,Kristin Wilson,
+ORD1040,,Camera,Camera,8,1300.46,2025-01-02,Australia,Michelle Carter,Completed
+ORD1041,Cathy Simmons,Headphones,Camera,2,659.43,2025-01-21,India,Logan Mosley,Completed
+ORD1042,Michael Miller,Headphones,Camera,2,875.82,2024-08-18,India,Katherine Lane,Completed
+ORD1043,Sara Simpson,Smartphone,Electronics,4,854.44,2023-08-03,India,Andrew Brown,Completed
+ORD1044,Kayla Garcia,Headphones,Accessories,5,1361.14,2023-10-27,Canada,Shelly Gutierrez,Cancelled
+ORD1045,Michael Davis,,Accessories,8,469.37,2024-01-02,UK,Eddie York,Completed
+ORD1046,Amanda Chase,Headphones,Accessories,9,745.06,2024-01-16,Australia,Robert Davis,Cancelled
+ORD1047,Judith Pope,Tablet,Electronics,4,311.96,2023-11-12,Australia,Brandon Ruiz,Completed
+ORD1048,Sean Reeves,Tablet,Electronics,2,1221.64,2025-02-25,France,Kimberly Grimes,Pending
+ORD1049,Jack Douglas,Camera,Electronics,2,606.6,2023-05-28,Australia,Gina Watson,Completed
+ORD1050,,Laptop,Mobiles,6,700.31,2023-06-13,France,Paula Barton,Completed
+ORD1051,Deborah Rivera,Smartphone,Accessories,3,298.08,2024-07-28,Germany,Mary Oneill,
+ORD1052,Howard Alvarez,Tablet,Accessories,2,999.55,2023-07-24,Germany,Amy Galloway,Cancelled
+ORD1053,Matthew Adkins,Headphones,Accessories,3,349.84,2023-12-07,India,Garrett Rodriguez,Completed
+ORD1054,Theresa West,Tablet,Mobiles,7,688.22,2024-07-17,USA,Elizabeth Smith,Completed
+ORD1055,Tammy Mueller,,Mobiles,1,215.42,2024-02-22,Canada,Crystal Wright,Cancelled
+ORD1056,Charles Ross,Laptop,Camera,8,1058.63,2023-12-28,UK,Patrick Cook,Completed
+ORD1057,Amy Velasquez MD,Laptop,Accessories,7,977.07,2023-09-21,UK,Tina Martin,Cancelled
+ORD1058,Maria Friedman,Laptop,Camera,5,612.34,2024-12-05,Germany,Christopher Ellis,Completed
+ORD1059,Chelsea Sullivan,,Camera,5,717.62,2024-03-20,USA,Logan Anderson,Pending
+ORD1060,,Smartphone,Electronics,7,1428.06,2024-02-02,USA,Charles Williams,Completed
+ORD1061,Tanya Carter,Tablet,Accessories,1,732.74,2024-05-17,USA,Deborah Marsh,
+ORD1062,Luis Miller,Camera,Accessories,2,320.34,2024-04-10,Australia,Elizabeth Herman,
+ORD1063,Alicia Perry,,Camera,8,50.94,2024-01-23,Australia,Andrew Robinson,Completed
+ORD1064,Barry Edwards,Tablet,Electronics,2,1019.66,2023-06-10,Canada,Laura Arnold,Completed
+ORD1065,Tiffany Obrien,Headphones,Electronics,6,171.83,2023-08-24,USA,Claudia Wise,
+ORD1066,Tamara Williams,Camera,Mobiles,9,635.13,2023-06-09,USA,Kaitlyn Cannon,Completed
+ORD1067,Richard Brown,,Mobiles,10,518.15,2025-01-21,Canada,Kelly Nelson,Cancelled
+ORD1068,Tiffany Allen,Headphones,Electronics,4,563.26,2023-05-17,Canada,Rebecca Perez,Completed
+ORD1069,Troy Johnson,,Mobiles,5,764.36,2025-02-25,India,Maria Burton,Pending
+ORD1070,,Headphones,Mobiles,1,287.93,2024-05-23,India,Matthew Ross,Completed
+ORD1071,Kristi Owens,Laptop,Electronics,9,1053.08,2024-01-13,Canada,Steven Hayden,Cancelled
+ORD1072,Desiree Young,Camera,Camera,6,1475.74,2025-04-10,Canada,Scott Jordan,Completed
+ORD1073,Michael Garcia,Smartphone,Electronics,2,994.29,2024-01-24,Australia,Michael Stanley,Cancelled
+ORD1074,Susan Boyd,Tablet,Electronics,3,1259.33,2024-09-28,Canada,Kevin Jimenez,Pending
+ORD1075,Amy Ramos,,Camera,1,700.43,2024-08-23,Germany,Christine Nichols,Pending
+ORD1076,Scott Harrington,Camera,Mobiles,5,728.95,2023-09-26,USA,Phillip Moore,Cancelled
+ORD1077,Jacob Park,Camera,Accessories,10,1269.36,2025-05-12,Australia,Samuel Horne,
+ORD1078,Alicia Jordan,Tablet,Electronics,10,1283.31,2023-07-24,Germany,Suzanne Wright,Cancelled
+ORD1079,Brian Thompson,Camera,Camera,10,1142.11,2023-06-15,Germany,Joshua Young,Completed
+ORD1080,,Laptop,Electronics,7,1218.35,2023-11-29,USA,Brian Ryan II,Pending
+ORD1081,Brooke Collins,,Accessories,8,630.96,2024-05-18,Australia,Alex Hamilton,
+ORD1082,Shawn George,Camera,Accessories,10,825.68,2024-01-24,Germany,Johnathan Stevens,Pending
+ORD1083,George Holder,Smartphone,Mobiles,10,338.86,2025-03-07,France,Jennifer George,Cancelled
+ORD1084,Amanda Chavez,Laptop,Electronics,7,1493.8,2023-06-14,UK,Jessica Morgan,Cancelled
+ORD1085,Spencer Hill MD,Headphones,Electronics,2,905.13,2024-03-30,USA,Michelle Smith,Completed
+ORD1086,Brittany Wood,Camera,Accessories,6,227.63,2023-09-08,France,Cindy Gonzales,
+ORD1087,Paul Brown,Laptop,Electronics,9,223.21,2024-07-10,UK,Joseph Brown,Cancelled
+ORD1088,Matthew Woods,Camera,Electronics,2,90.37,2023-08-05,Canada,Michael Morrison,Cancelled
+ORD1089,Cheryl Bennett,Laptop,Mobiles,2,421.48,2024-10-07,India,Tina Marsh,Completed
+ORD1090,,Camera,Accessories,4,378.88,2024-10-01,Germany,Luke Gilmore,Completed
+ORD1091,Ryan Pearson,Tablet,Accessories,4,213.73,2024-10-19,Canada,Carl Walls,Completed
+ORD1092,Alicia Parker,Smartphone,Electronics,9,991.18,2024-11-07,UK,Tammy Clark,Completed
+ORD1093,Kristin Jones,,Mobiles,7,301.51,2025-04-07,India,Rachel Lopez,Pending
+ORD1094,Allen Hill,Camera,Mobiles,9,468.24,2024-11-07,Australia,Jesse Fuentes,Cancelled
+ORD1095,Michael Pearson,Camera,Camera,7,642.43,2025-01-19,Australia,Rodney Smith,
+ORD1096,Michael Bell,Tablet,Mobiles,1,234.34,2025-01-30,Australia,George Smith,Completed
+ORD1097,Carl Morrison,Smartphone,Electronics,10,1296.09,2023-10-24,India,Stephanie Johnson,Completed
+ORD1098,Steven Santos,Tablet,Electronics,6,77.52,2024-05-26,Australia,Anthony Wilson,
+ORD1099,Jose Harris,Tablet,Accessories,4,827.28,2023-11-22,Canada,Belinda Allen,Cancelled
+ORD1005,Katherine Williams,Headphones,Electronics,6,406.31,2023-11-20,USA,Olivia Garcia,Pending
